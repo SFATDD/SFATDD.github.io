@@ -11,3 +11,10 @@ Hello, this is the SFA TDD group!
     * [FizzBuzzObjective-C](https://github.com/SFATDD/FizzBuzzObjective-C)
     * [FizzBuzzJava](https://github.com/SFATDD/FizzBuzzJava)
 * To be continued
+
+## 备注
+index.html是用README.md生成，方法是使用[markdown-js](https://github.com/evilstreak/markdown-js)的如下命令：
+
+`
+md2html README.md > index.html
+`
