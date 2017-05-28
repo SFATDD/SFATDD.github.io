@@ -339,11 +339,14 @@ BabyStep(婴儿步)
 
 单元测试框架
 ========================
+*选择原则：易用，github评星最高*
 
-* JUnit: java
-* Mocha + PowerAssert: javascript
-* Kiwi: ObjectiveC
-* Visual Studio: C#
+* java: `JUnit4 <https://github.com/junit-team/junit4>`_ + `mockito <https://github.com/mockito/mockito>`_
+* javascript: `Mocha <https://github.com/mochajs/mocha>`_ + `PowerAssert <https://github.com/power-assert-js/power-assert>`_ + `intelli-espower-loader <https://github.com/power-assert-js/intelli-espower-loader>`_
+* ObjectiveC: `Kiwi <https://github.com/kiwi-bdd/Kiwi>`_
+* C#: `xUnit.net <https://github.com/xunit/xunit>`_
+
+
 
 ----
 
